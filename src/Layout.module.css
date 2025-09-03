@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.main_container{
+    @apply bg-[url(/dreams.jpg)] bg-cover h-screen w-full flex items-center justify-center p-4
+  }
